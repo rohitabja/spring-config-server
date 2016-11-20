@@ -1,7 +1,7 @@
 eureka:
  client:
   serviceUrl:
-   defaultZone: http://eureka-cloud-service-uncastigated-indecency.cfapps.io
+   defaultZone: http://eureka-cloud-service-uncastigated-indecency.cfapps.io/eureka
    
 spring:
  dummy:
