@@ -1,0 +1,4 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: https://eureka-service-v0.cfapps.io/eureka
